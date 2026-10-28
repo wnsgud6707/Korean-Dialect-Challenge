@@ -1,0 +1,2 @@
+# Preserve exact bytes: public metadata is SHA256-locked.
+* -text
