@@ -177,14 +177,10 @@ python scripts/challenge_v2.py score --evaluation /path/to/organizer-evaluation 
 | Public Test | 87.91% | 88.07% | 19.64% | 35.77% |
 | Hidden Test | 87.48% | 87.57% | 17.87% | 33.53% |
 
-Hidden Test 평균 처리 시간 0.174초, p95 0.236초, RTF 0.0340입니다. RTX 4070 12GB / batch 1 기준이며 실시간 스트리밍 지연을 뜻하지 않습니다. 공개 음성 전체의 재추출 및 체크섬 검증은 완료했습니다. 원본 ZIP 11개를 깨끗한 환경에서 전부 새로 다운로드한 검증은 아닙니다.
 
 ## 참고
 
-- [HERIUN/korean_dialect_classification](https://github.com/HERIUN/korean_dialect_classification): AI-Hub 선택 다운로드와 방언 분류 구조 참고
 - [AI-Hub](https://www.aihub.or.kr/): 데이터 이용 신청 및 원본 데이터
 - [Wav2Vec-BERT 2.0](https://huggingface.co/facebook/w2v-bert-2.0)
 - [Whisper large-v3-turbo](https://huggingface.co/openai/whisper-large-v3-turbo)
 - [교과목 과제 요구사항](https://github.com/LSH-Ajou/Speech-Recognition-Challenge-2026)
-
-데이터와 사전학습 모델의 이용 조건은 각 제공처의 조건을 따릅니다. API 키, 원본 데이터, 생성된 전사, 모델 가중치, 비공개 평가 자료는 `.gitignore`로 제외합니다.
