@@ -1,0 +1,14 @@
+{
+  "model_id": "facebook/w2v-bert-2.0",
+  "revision": "da985ba0987f70aaeb84a80f2851cfac8c697a7b",
+  "version_dir": "data/participant_recording_v2",
+  "output_dir": "artifacts/baseline_participant_v2",
+  "cache_dir": "data/hf_cache",
+  "seed": 42,
+  "epochs": 10,
+  "batch_size": 2,
+  "cache_frozen_features": true,
+  "learning_rate": 0.0001,
+  "weight_decay": 0.01,
+  "patience": 3
+}

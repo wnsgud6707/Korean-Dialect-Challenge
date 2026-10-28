@@ -1,0 +1,114 @@
+{
+  "archives": [
+    {
+      "datasetkey": 119,
+      "filekey": 572703,
+      "filename": "(비식별화완료)경상도_10.zip",
+      "bytes": 29427852576,
+      "sha256": "0b416a841cbbb990b89e11304b25a82b388913870bbbb34ba929f26970c59ed0",
+      "transport_bytes": 29427896832,
+      "region": "gyeongsang",
+      "kind": "source"
+    },
+    {
+      "datasetkey": 119,
+      "filekey": 572701,
+      "filename": "(비식별화완료)경상도_학습데이터_1.zip",
+      "bytes": 323123858,
+      "sha256": "29ccbe2f49388d0629e28b87a6d7fe627063af7a2abd6c07ca17ef53f55cd0d8",
+      "transport_bytes": 323126784,
+      "region": "gyeongsang",
+      "kind": "labels"
+    },
+    {
+      "datasetkey": 118,
+      "filekey": 572593,
+      "filename": "(비식별화완료)(new3)강원도_41.zip",
+      "bytes": 7749479781,
+      "sha256": "146a6fdaec483c4bb0363bec2752db8bf12141c5ff506170bc568b00fc1755af",
+      "transport_bytes": 7749493248,
+      "region": "gangwon",
+      "kind": "source"
+    },
+    {
+      "datasetkey": 118,
+      "filekey": 572589,
+      "filename": "(비식별화완료)(new3)강원도_학습데이터_2.zip",
+      "bytes": 37233053,
+      "sha256": "409a6ba56f10cedb6eefd7761195fcdf53e912df5e92be67e6d2c6189a0afbea",
+      "transport_bytes": 37235712,
+      "region": "gangwon",
+      "kind": "labels"
+    },
+    {
+      "datasetkey": 122,
+      "filekey": 572613,
+      "filename": "(비식별화완료)충청도_17.zip",
+      "bytes": 16668677344,
+      "sha256": "a8b2bd71ef3e92ebe41255b3fdf455caf45771ddccf691221d48bc30cee22c13",
+      "transport_bytes": 16668703232,
+      "region": "chungcheong",
+      "kind": "source"
+    },
+    {
+      "datasetkey": 122,
+      "filekey": 572612,
+      "filename": "(비식별화완료)충청도_학습데이터_2.zip",
+      "bytes": 37359093,
+      "sha256": "faa21def8067167d1a23ad233f72e990c0ab6349129a41f87d2561e5bc8a0c82",
+      "transport_bytes": 37361664,
+      "region": "chungcheong",
+      "kind": "labels"
+    },
+    {
+      "datasetkey": 121,
+      "filekey": 572695,
+      "filename": "(비식별화완료)제주도_26.zip",
+      "bytes": 3337227969,
+      "sha256": "7338baf542100ec27e78650603da6b3032f38ae39f761c530e55623dd1c060b7",
+      "transport_bytes": 3337235456,
+      "region": "jeju",
+      "kind": "source"
+    },
+    {
+      "datasetkey": 121,
+      "filekey": 572694,
+      "filename": "(비식별화완료)제주도_학습용데이터_3.zip",
+      "bytes": 39610630,
+      "sha256": "4a65cb80684ed6db60578a832c8264d6df957c6e9f7483476b4633f03ea22cb2",
+      "transport_bytes": 39613440,
+      "region": "jeju",
+      "kind": "labels"
+    },
+    {
+      "datasetkey": 120,
+      "filekey": 572657,
+      "filename": "(비식별화완료)전라도_3.zip",
+      "bytes": 7198323614,
+      "sha256": "d5723ef8194980122579a7b06d60116b9854a2bd8cb045ecc11bc4f331e6539a",
+      "transport_bytes": 7198335488,
+      "region": "jeolla",
+      "kind": "source"
+    },
+    {
+      "datasetkey": 120,
+      "filekey": 572654,
+      "filename": "(비식별화완료)전라도_학습데이터_2.zip",
+      "bytes": 43990231,
+      "sha256": "699f265bb0eb48681dc28fa3072bfc1d16139eb2ed220bbbfda5d5597d1c54de",
+      "transport_bytes": 43993088,
+      "region": "jeolla",
+      "kind": "labels"
+    },
+    {
+      "datasetkey": 121,
+      "filekey": 572699,
+      "filename": "(비식별화완료)제주도_34.zip",
+      "bytes": 2020676019,
+      "sha256": "7e637b48d41eb73b241837fe79e5ea26f2dc18e1c84a03e4874cccb065955d0c",
+      "transport_bytes": 2020680192,
+      "region": "jeju",
+      "kind": "source"
+    }
+  ]
+}

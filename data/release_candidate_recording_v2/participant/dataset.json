@@ -1,0 +1,31 @@
+{
+  "version": "recording-v2",
+  "splits": [
+    {
+      "name": "train",
+      "path": "train.jsonl",
+      "rows": 21222,
+      "sha256": "1003c2a4483ae1017e90a23316bef337e8f5a996904545c8087ad8ffa3904228"
+    },
+    {
+      "name": "validation",
+      "path": "validation.jsonl",
+      "rows": 3120,
+      "sha256": "9e6a8013b8e02a5206db92bd28e0015967fe4082c8a55cd66f82ab16cac1a776"
+    },
+    {
+      "name": "public_test",
+      "path": "public_test.jsonl",
+      "rows": 3043,
+      "sha256": "312d22fde059648fe2fd0b166567beffd9ae35ab1de06f50529fc8be75d462cf"
+    }
+  ],
+  "archive_inventory_sha256": "c135aa332548d2d2925b25aa6e558b22e0756c996159f4368793abc64a121804",
+  "label2id": {
+    "gyeongsang": 0,
+    "jeolla": 1,
+    "chungcheong": 2,
+    "gangwon": 3,
+    "jeju": 4
+  }
+}
